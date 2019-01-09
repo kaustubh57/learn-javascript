@@ -1,6 +1,6 @@
 # Learn Javascript
 
-## Course [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript](A re-introduction to JavaScript (JS tutorial))
+## Course [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript] (A re-introduction to JavaScript (JS tutorial))
     - Numbers
     - Strings
     - Boolean
