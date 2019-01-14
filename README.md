@@ -1,6 +1,6 @@
 # Learn Javascript
 
-## Course [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript] (A re-introduction to JavaScript (JS tutorial))
+## Course [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
     - Numbers
     - Strings
     - Boolean
@@ -29,6 +29,7 @@ https://www.safaribooksonline.com/library/view/javascript-unit-testing/978177137
     
 - Tools 
     - Plunker (https://plnkr.co/)
+    - JSbin (
     
 - Test Coverage
     - Istanbul (http://gotwarlost.github.io/istanbul/)
