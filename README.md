@@ -29,7 +29,7 @@ https://www.safaribooksonline.com/library/view/javascript-unit-testing/978177137
     
 - Tools 
     - Plunker (https://plnkr.co/)
-    - JSbin (
+    - JSbin (http://jsbin.com)
     
 - Test Coverage
     - Istanbul (http://gotwarlost.github.io/istanbul/)
